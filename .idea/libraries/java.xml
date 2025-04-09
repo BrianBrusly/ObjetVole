@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Téléchargements/mail-api-2.1.3/api/src/main/java" />
+      <root url="file://$USER_HOME$/Téléchargements/mail-api-2.1.3/api/src/main/resources" />
+      <root url="file://$USER_HOME$/Téléchargements/mail-api-2.1.3/api/src/test/java" />
+      <root url="file://$USER_HOME$/Téléchargements/mail-api-2.1.3/www" />
+      <root url="file://$USER_HOME$/openjfx-21.0.6_linux-x64_bin-sdk" />
+      <root url="file://$USER_HOME$/openjfx-23.0.2_linux-x64_bin-sdk" />
+    </SOURCES>
+  </library>
+</component>

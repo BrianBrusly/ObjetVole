@@ -1,0 +1,24 @@
+.root {
+    -fx-background-color: #f5f6fa; /* Fond clair */
+    -fx-font-family: 'Segoe UI', sans-serif;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #0078d4; /* Bleu Microsoft */
+    -fx-text-fill: white; /* Texte blanc */
+    -fx-padding: 10 20;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-cursor: hand; /* Curseur en forme de main */
+}
+
+.button:hover {
+    -fx-background-color: #005a9e; /* Bleu foncé pour hover */
+}
+
+.label {
+    -fx-text-fill: #333333; /* Texte gris foncé */
+    -fx-font-weight: bold;
+    -fx-padding: 5;
+}

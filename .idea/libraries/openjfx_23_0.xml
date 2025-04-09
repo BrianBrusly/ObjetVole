@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="openjfx-23.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/openjfx-21.0.6_linux-x64_bin-sdk" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/openjfx-23.0.2_linux-x64_bin-sdk" />
+    </SOURCES>
+  </library>
+</component>
