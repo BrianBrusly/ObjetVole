@@ -1,4 +1,5 @@
 # TP POO Kennedy Projet ObjetVole
+# HEUDEP DJANDJA Brian B 3GI 2025
 Elaboration d'une appli de verification du statut (volé/non volé) d'un appareil/objet ( téléphone, odrinateur...etc) acheté en seconde main.
 
 **ObjetVole** est une application Java développée pour gérer les objets volés. Elle permet :
